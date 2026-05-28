@@ -4,7 +4,7 @@
   "description": "健康診断・血液検査の結果数値の意味を分かりやすく解説。気になる項目の改善方法も提案。",
   "start_url": "/health-check-explainer/",
   "display": "standalone",
-  "background_color": "#f8faf9",
+  "background_color": "#ffffff",
   "theme_color": "#7c3aed",
   "lang": "ja",
   "icons": [
